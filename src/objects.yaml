@@ -324,3 +324,6 @@ label_alias:
   crab:
     zh: [ "螃蟹" ]
     en: [ "crab" ]
+  toy_penguin:
+    zh: [ "玩具企鹅" ]
+    en: [ "toy penguin" ]
