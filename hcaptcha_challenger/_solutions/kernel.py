@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Time       : 2022/4/30 22:34
-# Author     : QIN2DIM
-# Github     : https://github.com/QIN2DIM
+# Author     : Quocnd1704
+# Github     : https://github.com/Quocnd1704
 # Description:
 import json
 import os
@@ -81,7 +81,7 @@ class Memory:
 
 
 class Assets:
-    GITHUB_RELEASE_API = "https://api.github.com/repos/qin2dim/hcaptcha-challenger/releases"
+    GITHUB_RELEASE_API = "https://api.github.com/repos/Quocnd1704/hcaptcha-challenger/releases"
 
     NAME_ASSETS = "assets"
     NAME_ASSET_NAME = "name"
@@ -176,7 +176,7 @@ class Assets:
 
 class PluggableObjects:
     URL_REMOTE_OBJECTS = (
-        "https://raw.githubusercontent.com/QIN2DIM/hcaptcha-challenger/main/src/objects.yaml"
+        "https://raw.githubusercontent.com/Quocnd1704/hcaptcha-challenger/main/src/objects.yaml"
     )
 
     def __init__(self, path_objects: str):
